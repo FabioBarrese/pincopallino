@@ -9,7 +9,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class MyTests {
-	private static App app = new App();;
+	private static App app = new App();
 	private static int[][] m = new int[3][2];
 	private static Scanner input = new Scanner(System.in);
 
