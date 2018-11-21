@@ -5,7 +5,7 @@ import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
-@SuiteClasses({MyPerformanceTests.class,MyTests.class})
-public class TestSuit {
+@SuiteClasses({TrisBasicTest.class,TrisExceptionTest.class})
+public class TrisTestSuite {
 
 }
