@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class MyPerformanceTests {
 	private static App app = new App();
-	private static int[][] m = new int[10][10];
+	private static int[][] m = new int[2][3];
 	private static Scanner in = new Scanner(System.in);
 	
 	@BeforeClass
