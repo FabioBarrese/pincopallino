@@ -64,7 +64,7 @@ public class TrisBasicTest {
 		tris.play(2, 0);
 		tris.play(2, 2);
 		tris.play(2, 1);
-		assertEquals(Tris.PAREGGIO, tris.getWinner());
+		assertEquals(Tris.PAREGGIO, tris.getWinner());;
 	}
 	
 	//un test in cui si verifica che il metodo play restituisca falso dopo 3 mosse
